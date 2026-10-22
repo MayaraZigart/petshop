@@ -323,7 +323,7 @@ git clone https://github.com/MayaraZigart/projeto_integrador_petshop.git
 Entre na pasta do projeto:
 
 ```bash
-cd projeto_integrador_petshop
+cd petshop
 ```
 
 ### 8.3. Criar o banco de dados
